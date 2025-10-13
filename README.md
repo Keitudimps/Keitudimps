@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Keitumetse Dimpe
 
-<!--
-**Keitudimps/Keitudimps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **Software Developer Graduate and Digital Associate** passionate about creating impactful solutions through technology.  
+I enjoy **learning new skills, exploring modern technologies**, and **helping others grow in software development**.  
 
-Here are some ideas to get you started:
+- 💻Current Role: Digital Associate
+- 🌱 Always learning new technologies  
+- 🎯 Motivated by building projects that make a real impact  
+- 📫 Connect with me: [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/fereshteh-keitumetse-dimpe-4a378b237/)) | [Portfolio](https://my-portfolio-keitu.netlify.app/)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages & Frameworks:**  
+Python | JavaScript | Java | React | Angular
+
+**Tools & Platforms:**  
+Git | GitHub| Azure | VS Code | Agile Methodologies | AI Platforms | intelliJ | Netbeans | Postman| Bruno
+
+**Other Skills:**  
+Team Collaboration | Problem Solving | Adaptability 
+
+---
+## Fun Facts & Interests
+- 🎵 Music
