@@ -4,7 +4,7 @@
 I'm a **Software Developer Graduate and Digital Associate** passionate about creating impactful solutions through technology.  
 I enjoy **learning new skills, exploring modern technologies**, and **helping others grow in software development**.  
 
-- 💻Current Role: Digital Associate
+- 💻Current Role: First-Line User Assistant Technician
 - 🌱 Always learning new technologies  
 - 🎯 Motivated by building projects that make a real impact  
 - 📫 Connect with me: [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/fereshteh-keitumetse-dimpe-4a378b237/)) | [Portfolio](https://my-portfolio-keitu.netlify.app/)
