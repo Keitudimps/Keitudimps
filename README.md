@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Keitumetse Dimpe
 
 ## About Me
-I'm a **Software Developer Graduate and Digital Associate** passionate about creating impactful solutions through technology.  
+I'm a **Software Developer Graduate and User Assistant Technician** passionate about creating impactful solutions through technology.  
 I enjoy **learning new skills, exploring modern technologies**, and **helping others grow in software development**.  
 
 - 💻Current Role: First-Line User Assistant Technician
